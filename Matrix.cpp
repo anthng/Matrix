@@ -1,3 +1,7 @@
+//@IDE: Codelite
+//@Date: 24/05/2019
+//@Author: An Nguyen
+
 #include <Matrix.h>
 
 template <class T>

@@ -2,7 +2,7 @@
 
 This is a small assignment in the Object-oriented programming course which I have been learning in my university.
 
-THE TARGET: Building a **Matrix class** from the **Vector template** (vector of vectors) with the methods:
+The target: Building a **Matrix class** from the **Vector template** (vector of vectors) with the methods:
   - Constructor, Copy Constructor, Destructor, Input and Output.
   - The operators +,-,*,/ between matrix and matrix, matrix and scalar, matrix and vector.
   - Finding the largest position of the matrix.

@@ -8,7 +8,7 @@ The target: Building a **Matrix class** from the **Vector template** (vector of 
   - Finding the largest position of the matrix.
   ... (You are able to get more another methods, if you like)
   
-My code have not still optimized yet. So, I hope that you can help me to improve it better.
+My code have not still optimized yet. So, I hope that you can contribute to improve it better.
 
 Thanks! 
 

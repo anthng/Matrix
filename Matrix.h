@@ -1,7 +1,10 @@
+//@IDE: Codelite
+//@Date: 24/05/2019
+//@Author: An Nguyen
+
 #ifndef MATRIX_H
 #define MATRIX_H
 
-//@Author Nguyen Thien An Dep Chai
 #include <vector>
 #include <bits/stdc++.h> 
 

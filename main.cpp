@@ -1,7 +1,10 @@
+//@IDE: Codelite
+//@Date: 24/05/2019
+//@Author: An Nguyen
+
 #include <Matrix.h>
 #include <Matrix.cpp>
 #include <iostream>
-//@Author Nguyen Thien An Dep Chai
 
 using namespace std;
 

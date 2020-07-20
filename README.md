@@ -16,5 +16,3 @@ Thanks!
   - **OS**: Ubuntu 18.04 LTS
   - **Language**: C++
   - **IDE**: CodeLite
-
-Contact me: *thienan99dt[at]gmail[dot]com*
